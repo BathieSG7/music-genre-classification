@@ -32,9 +32,7 @@ And Mbalaxx songs is downloaded using the pytube module and youtube-dl .
 
 ## Results
 The models are evaluated on the basis on AUC, accuracy and Fscore. 
-<br>
-<img src="plots/results.png" width="600"/>
-<br>
+
 
 
 
