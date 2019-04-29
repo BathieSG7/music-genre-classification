@@ -6,9 +6,6 @@ Recognizing music genre is a challenging task in the area of music information r
 1. Feature Engineering Approach using Logistic Regression, SVMs, Random Forest and eXtreme Gradient Boosting.
 We Plan to use Spectrogram based end-to-end image classification using a CNN (VGG-16)
 
-This project was carried out as a part of the course CS 698 - Computational Audio offered by [Prof. Richard Mann](https://cs.uwaterloo.ca/~mannr/) at the University of Waterloo. For a detailed description about the project, please refer to [this article](https://arxiv.org/abs/1804.01149) published on [arXiv](https://arxiv.org/).
-It's also another version of the originial repository: music-genre-classification
-
 ## Datasets
 The *Audio Set* data [released by Google](https://research.google.com/audioset/download.html) is used in this study. Specifically, only the wav files that correspond to the following class labels are extracted from YouTube based on the video link, start and end times. 
 And Mbalaxx songs is downloaded using the pytube module and youtube-dl .
