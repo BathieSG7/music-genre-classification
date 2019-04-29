@@ -1,6 +1,5 @@
 # Music Genre Classification
-![](https://img.shields.io/badge/python-3.6-brightgreen.svg) ![](https://img.shields.io/badge/tensorflow-1.3.0-orange.svg)
-![](https://img.shields.io/badge/keras-2.0-blue.svg)
+![](https://img.shields.io/badge/python-3.6-brightgreen.svg) 
 
 ## Overview
 Recognizing music genre is a challenging task in the area of music information retrieval. One approaches is studied here:
